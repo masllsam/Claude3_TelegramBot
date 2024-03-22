@@ -1,14 +1,12 @@
 **Repository Name:** Claude3_TelegramBot
 
 **Description:**
-The Claude Conversation Bot is a Telegram bot that allows users to chat with the Anthropic AI assistant, Claude. Users can start new conversations, switch between different language models, and the bot will remember and respond to previous messages. The conversation history is saved to both text and JSON files for each user, ensuring privacy and legal compliance.
+The Claude3_TelegramBot is a Telegram bot that allows users to chat with the Anthropic AI assistant, Claude. Users can start new conversations, switch between different language models, and the bot will remember and respond to previous messages. The conversation history is saved to both text and JSON files for each user, ensuring privacy and legal compliance.
 
-**README.md**
 
-```markdown
-# Claude Conversation Bot
+# Claude3_TelegramBot
 
-The Claude Conversation Bot is a Telegram bot that allows users to chat with the Anthropic AI assistant, Claude. Users can start new conversations, switch between different language models, and the bot will remember and respond to previous messages. The conversation history is saved to both text and JSON files for each user, ensuring privacy and legal compliance.
+The Claude3_TelegramBot is a Telegram bot that allows users to chat with the Anthropic AI assistant, Claude. Users can start new conversations, switch between different language models, and the bot will remember and respond to previous messages. The conversation history is saved to both text and JSON files for each user, ensuring privacy and legal compliance.
 
 ## Features
 
@@ -22,7 +20,7 @@ The Claude Conversation Bot is a Telegram bot that allows users to chat with the
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/claude-conversation-bot.git
+   git clone https://github.com/masllsam/Claude3_TelegramBot.git
    ```
 2. Navigate to the project directory:
    ```
